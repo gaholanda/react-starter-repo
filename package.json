@@ -1,6 +1,6 @@
 {
-  "name": "new-hunters",
-  "version": "3.0.0",
+  "name": "gaholanda-cra-boilerplate",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
