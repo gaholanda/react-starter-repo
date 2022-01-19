@@ -1,7 +1,14 @@
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { appRoutes } from "./routes";
+
 export const App: React.FC = () => {
   return (
-    <div>
-      <h1>App!</h1>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        {appRoutes.map(({ id, ...rest }) => (
+          <Route key={id} {...rest} />
+        ))}
+      </Routes>
+    </BrowserRouter>
   );
 };
