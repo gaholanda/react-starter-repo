@@ -5,13 +5,11 @@ export const appRoutes = [
   {
     id: "home",
     path: "/",
-    exact: true,
     element: <Home />,
   },
   {
     id: "about",
     path: "/about",
-    exact: true,
     element: <About />,
   },
 ];
