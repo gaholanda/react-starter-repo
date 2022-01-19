@@ -1,8 +1,8 @@
-# Create React App + Typescript + Commitlint + Husky
+# React Starter Repo
 
 ### PT-BR 🇧🇷
 ### Sobre
-Repositório com uma estrutura básica para iniciar um projeto **React**, com **Typescript**, **Husky** e **Commitlint** configurados.
+Repositório com uma estrutura básica para iniciar um projeto com [React Router Dom](https://reactrouter.com/), **Typescript**, **[Husky](https://typicode.github.io/husky/#/)**, **[Commitlint](https://commitlint.js.org/#/)** e **[Commitzen](https://github.com/commitizen/cz-cli)** configurados.
 
 ### Instruções
 1. Clonar o repositório;
@@ -11,7 +11,7 @@ Repositório com uma estrutura básica para iniciar um projeto **React**, com **
 
 ### ENG-US 🇺🇸
 ### About
-Repo with an initial structure that already have **React**, **Typescript**, **Husky**, **Commitlint** setting up.
+Repo with an initial structure that already have **[React Router Dom](https://reactrouter.com/)**, **Typescript**, **[Husky](https://typicode.github.io/husky/#/)**, **[Commitlint](https://commitlint.js.org/#/)**, **[Commitzen](https://github.com/commitizen/cz-cli)** setting up.
 
 ### Instructions
 1. Clone repo;
@@ -20,7 +20,7 @@ Repo with an initial structure that already have **React**, **Typescript**, **Hu
 
 ### ES 🇪🇸
 ### Sobre
-Repositorio con una estructura basica ya con **React**, **Typescript**, **Husky** y **Commitlint** listos.
+Repositorio con una estructura basica ya con **[React Router Dom](https://reactrouter.com/)**, **Typescript**, **[Husky](https://typicode.github.io/husky/#/)**, **[Commitlint](https://commitlint.js.org/#/)** y **[Commitzen](https://github.com/commitizen/cz-cli)** listos.
 
 ### Instrucciones
 1. Clonar el repositorio;
